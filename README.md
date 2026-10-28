@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Showyebur Rahaman</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Showyebur+Rahaman!;+a+passionate+web+developer;skilled+in+the+Full+Stack+Developer" />
+</h1>
+
 - 🌱 I’m currently learning **Next.JS,TypeScript,Javascript**
 
 <h3 align="left">Connect with me:</h3>
