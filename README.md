@@ -1,3 +1,6 @@
+<img width="192" height="296" rounded="full" flex center alt="Young Man in Black Hoodie Cutout" src="https://github.com/user-attachments/assets/9f621982-ddd8-44da-845a-3dbebd8a6b08" />
+
+
 <h1 align="center">Hi 👋, I'm Showyebur Rahaman</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
