@@ -1,8 +1,11 @@
-<img width="192" height="296" rounded="full" flex center alt="Young Man in Black Hoodie Cutout" src="https://github.com/user-attachments/assets/9f621982-ddd8-44da-845a-3dbebd8a6b08" />
+<img width="1584" height="396" alt="ff9db5d0-a660-4d70-ba95-64458df75a36" src="https://github.com/user-attachments/assets/093f6312-f659-4f69-bcbb-acdc68018677" />
 
 
-<h1 align="center">Hi 👋, I'm Showyebur Rahaman</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Showyebur Rahaman</h1>
+<h3 align="center">A passionate fullstack developer from Bangladesh</h3> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Showyebur+Rahaman!;+a+passionate+web+developer;skilled+in+the+Full+Stack+Developer" />
